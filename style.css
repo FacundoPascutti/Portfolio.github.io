@@ -710,7 +710,7 @@ a {
     flex-direction: column;
     background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
     border-bottom: 1px solid #a2c7ff;
-    height: 1000px;
+    height: 100dvh;
 }
 .educacion-container {
     margin-left: 120px;
@@ -760,7 +760,7 @@ a {
         flex-direction: column;
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
         width: 100dvw;
-        height: 130dvh;
+        height: 100dvh;
         text-align: center;
     }
     .educacion-container {
@@ -882,7 +882,7 @@ a {
         flex-direction: column;
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
         width: 100dvw;
-        height: 120dvh;
+        height: 100dvh;
         text-align: center;
         margin-left: 0;
     }
@@ -1041,6 +1041,10 @@ a {
     .contact-container-email {
         margin-left: auto;
     }
+    .contact-email {
+        width: 0px;
+        height: 0px;
+    }
     .email-p {
         font-size: 1.6rem;
     }
@@ -1050,11 +1054,19 @@ a {
     .wp-p {
         font-size: 1.4rem;
     }
+    .contact-wp {
+        width: 0px;
+        height: 0px;
+    }
     .contact-container-lk {
         margin-left: auto;
     }
     .lk-p {
         font-size: 1.4rem;
+    }
+    .contact-lk {
+        width: 0px;
+        height: 0px;
     }
     .sitio {
         background-color: transparent;
