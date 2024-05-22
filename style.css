@@ -255,7 +255,7 @@ body {
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
         border-bottom: 1px solid #a2c7ff;
         width: 100dvw;
-        height: 100dvh;
+        height: 1000px;
         text-align: center;
     }
     .main-fp {
@@ -396,7 +396,7 @@ body {
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
         border-bottom: 1px solid #a2c7ff;
         width: 100dvw;
-        height: 100dvh;
+        height: 1000px;
         text-align: center;
     }
     .main-sobremi {
@@ -581,7 +581,7 @@ a {
         flex-direction: column;
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
         width: 100dvw;
-        height: 100dvh;
+        height: 1000px;
         align-items: center;
         text-align: center;
         position: relative;
@@ -760,7 +760,7 @@ a {
         flex-direction: column;
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
         width: 100dvw;
-        height: 100dvh;
+        height: 1000px;
         text-align: center;
     }
     .educacion-container {
@@ -882,7 +882,7 @@ a {
         flex-direction: column;
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
         width: 100dvw;
-        height: 100dvh;
+        height: 1000px;
         text-align: center;
         margin-left: 0;
     }
@@ -1017,7 +1017,7 @@ a {
         display: flex;
         flex-direction: column;
         background-image: linear-gradient(#0009, #0009), url(fd40a4b8b151c4e432106576187d03c9.gif);
-        height: 100dvh;
+        height: 1000px;
         width: 100dvw;
         text-align: center;
         margin-left: auto;
